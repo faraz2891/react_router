@@ -1,3 +1,9 @@
 To install react router Dom We need as its a separate library:
 
 *npm i react-router-dom@4.3.1
+
+To install Query string package we need to type: 
+Note: vry populer npm package for working with QUERY string
+
+
+* npm i query-string@6.1.0
