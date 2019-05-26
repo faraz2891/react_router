@@ -1,0 +1,3 @@
+To install react router Dom We need as its a separate library:
+
+*npm i react-router-dom@4.3.1
